@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20230419-1421-Experimental"
+	Name="mgbddlt"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="mgbddlt"
+	OSRelease="5.10.16.3-microsoft-standard-WSL2"
+	OSVersion="#1 SMP Fri Apr 2 22:23:49 UTC 2021"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="126"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="6096"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1190.4"
+	>
+	<Testing>
+		<StartDateTime>Apr 19 21:30 +07</StartDateTime>
+		<StartTestTime>1681914638</StartTestTime>
+		<TestList>
+			<Test>./testlab6-2</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>testlab6-2</Name>
+			<Path>.</Path>
+			<FullName>./testlab6-2</FullName>
+			<FullCommandLine>/home/mgbdd/template/lab6-2/test/testlab6-2 "./lab6-2"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>3.55383</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/mgbdd/template/lab6-2/test/testlab6-2 "./lab6-2"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJx1lNtOhDAQhu95irnUxMV2ykG804jJRqObwD7ALowLiQuGFtS3tws3JuS/a/5vpvTrgeDlfUvP25Leij29Ho5UinUy0FV1TaxUtmHFio6/lE+nUbqWduKGfgqCS13bneaeZMP0SG4QsWEYBmVelKRvI3NPCZ3tDe0eiiJ/WnKe82iVmzmPV3kE8hjkCchTkN+B9WSgXisENAJIWS/O6RogaR2DXdVIW6eoA4lrZM7InJE5MwIGfJwjBNB5MzLnFE2FzDlDd1MhoBGA1xyZG2RuYgQSBJC5WczNPzC/10Zo8M+Z+g9yfuzm8ei+RkffB+vZuZ+kJtt2lVDrSH4qkdouxY1vbfrP+tKtFUf+Z+EnCIM/bmQZdw==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 19 21:30 +07</EndDateTime>
+		<EndTestTime>1681914642</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

@@ -1,0 +1,70 @@
+Start testing: Apr 19 21:30 +07
+----------------------------------------------------------
+1/1 Testing: testlab6-2
+1/1 Test: testlab6-2
+Command: "/home/mgbdd/template/lab6-2/test/testlab6-2" "./lab6-2"
+Directory: /home/mgbdd/template/lab6-2/build
+"testlab6-2" start time: Apr 19 21:30 +07
+Output:
+----------------------------------------------------------
+
+KOI FIT NSU Lab Tester (c) 2009-2020 by Evgueni Petrov
+
+Testing Lab 6-2 B trees...
+TEST 1/43: 6 ms, PASSED
+TEST 2/43: 4 ms, PASSED
+TEST 3/43: 5 ms, PASSED
+TEST 4/43: 5 ms, PASSED
+TEST 5/43: 5 ms, PASSED
+TEST 6/43: 5 ms, PASSED
+TEST 7/43: 5 ms, PASSED
+TEST 8/43: 4 ms, PASSED
+TEST 9/43: 5 ms, PASSED
+TEST 10/43: 5 ms, PASSED
+TEST 11/43: 5 ms, PASSED
+TEST 12/43: 4 ms, PASSED
+TEST 13/43: 7 ms, PASSED
+TEST 14/43: 5 ms, PASSED
+TEST 15/43: 6 ms, PASSED
+TEST 16/43: 5 ms, PASSED
+TEST 17/43: 6 ms, PASSED
+TEST 18/43: 4 ms, PASSED
+TEST 19/43: 5 ms, PASSED
+TEST 20/43: 5 ms, PASSED
+TEST 21/43: 5 ms, PASSED
+TEST 22/43: 5 ms, PASSED
+TEST 23/43: 4 ms, PASSED
+TEST 24/43: 4 ms, PASSED
+TEST 25/43: 5 ms, PASSED
+TEST 26/43: 5 ms, PASSED
+TEST 27/43: 4 ms, PASSED
+TEST 28/43: 4 ms, PASSED
+TEST 29/43: 4 ms, PASSED
+TEST 30/43: 4 ms, PASSED
+TEST 31/43: 4 ms, PASSED
+TEST 32/43: 4 ms, PASSED
+TEST 33/43: 4 ms, PASSED
+TEST 34/43: 4 ms, PASSED
+TEST 35/43: 4 ms, PASSED
+TEST 36/43: 4 ms, PASSED
+TEST 37/43: 4 ms, PASSED
+TEST 38/43: 3 ms, PASSED
+TEST 39/43: 3 ms, PASSED
+TEST 40/43: 4 ms, PASSED
+TEST 41/43: 1617 ms, PASSED
+TEST 42/43: 730 ms, PASSED
+TEST 43/43: 313 ms, PASSED
+
+:-)
+
+Executable file ./lab6-2 passed all tests.
+Please review the source code with your teaching assistant.
+<end of output>
+Test time =   3.55 sec
+----------------------------------------------------------
+Test Passed.
+"testlab6-2" end time: Apr 19 21:30 +07
+"testlab6-2" time elapsed: 00:00:03
+----------------------------------------------------------
+
+End testing: Apr 19 21:30 +07
