@@ -1,0 +1,29 @@
+Start testing: May 17 18:49 +07
+----------------------------------------------------------
+1/1 Testing: testlab8-0
+1/1 Test: testlab8-0
+Command: "/home/mgbdd/template/lab8-0/test/testlab8-0" "./lab8-0"
+Directory: /home/mgbdd/template/lab8-0/build
+"testlab8-0" start time: May 17 18:49 +07
+Output:
+----------------------------------------------------------
+
+KOI FIT NSU Lab Tester (c) 2009-2020 by Evgueni Petrov
+
+Testing Lab 8-x Kruskal or Prim Shortest Spanning Tree...
+TEST 1/33: 
+Executable file "./lab8-0" terminated with return code != 0
+
+:-(
+
+Executable file ./lab8-0 failed for input file in.txt in the current directory.
+Please fix and try again.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Failed.
+"testlab8-0" end time: May 17 18:49 +07
+"testlab8-0" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 17 18:49 +07
