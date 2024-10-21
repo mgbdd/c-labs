@@ -1,0 +1,78 @@
+Start testing: Apr 26 09:09 +07
+----------------------------------------------------------
+1/1 Testing: testlab7
+1/1 Test: testlab7
+Command: "/home/mgbdd/template/lab7/test/testlab7" "./lab7"
+Directory: /home/mgbdd/template/lab7/build
+"testlab7" start time: Apr 26 09:09 +07
+Output:
+----------------------------------------------------------
+
+KOI FIT NSU Lab Tester (c) 2009-2020 by Evgueni Petrov
+
+Testing Lab 7 Topological Sort...
+TEST 1/32: PASSED
+TEST 2/32: cycle was detected: Success
+PASSED
+TEST 3/32: bad number of lines: Success
+PASSED
+TEST 4/32: PASSED
+TEST 5/32: PASSED
+TEST 6/32: PASSED
+TEST 7/32: PASSED
+TEST 8/32: PASSED
+TEST 9/32: PASSED
+TEST 10/32: bad number of lines: Success
+PASSED
+TEST 11/32: cycle was detected: Success
+PASSED
+TEST 12/32: cycle was detected: Success
+PASSED
+TEST 13/32: cycle was detected: Success
+PASSED
+TEST 14/32: cycle was detected: Success
+PASSED
+TEST 15/32: cycle was detected: Success
+PASSED
+TEST 16/32: scanf error in topological sort: Success
+PASSED
+TEST 17/32: PASSED
+TEST 18/32: PASSED
+TEST 19/32: bad number of vertices: Success
+PASSED
+TEST 20/32: bad number of edges: Success
+PASSED
+TEST 21/32: PASSED
+TEST 22/32: PASSED
+TEST 23/32: bad number of edges: Success
+PASSED
+TEST 24/32: cycle was detected: Success
+PASSED
+TEST 25/32: cycle was detected: Success
+PASSED
+TEST 26/32: cycle was detected: Success
+PASSED
+TEST 27/32: scanf error in topological sort: Success
+PASSED
+TEST 28/32: scanf error in topological sort: Success
+PASSED
+TEST 29/32: scanf error in topological sort: Success
+PASSED
+TEST 30/32: scanf error in topological sort: Success
+PASSED
+TEST 31/32: PASSED
+TEST 32/32: PASSED
+
+:-)
+
+Executable file ./lab7 passed all tests.
+Please review the source code with your teaching assistant.
+<end of output>
+Test time =   1.93 sec
+----------------------------------------------------------
+Test Passed.
+"testlab7" end time: Apr 26 09:09 +07
+"testlab7" time elapsed: 00:00:01
+----------------------------------------------------------
+
+End testing: Apr 26 09:09 +07

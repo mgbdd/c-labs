@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/mgbdd/template/lab7/build",
+  "command": "/usr/bin/gcc -D__USE_MINGW_ANSI_STDIO=1  -g   -Werror -Wall -Wextra -Waddress -Warray-bounds -Wbuiltin-macro-redefined -Wswitch -Wunreachable-code -pedantic -pedantic-errors -std=c99 -o CMakeFiles/lab7.dir/src/main.c.o   -c /home/mgbdd/template/lab7/src/main.c",
+  "file": "/home/mgbdd/template/lab7/src/main.c"
+},
+
+{
+  "directory": "/home/mgbdd/template/lab7/build",
+  "command": "/usr/bin/gcc -D__USE_MINGW_ANSI_STDIO=1  -g   -Werror -Wall -Wextra -Waddress -Warray-bounds -Wbuiltin-macro-redefined -Wswitch -Wunreachable-code -pedantic -pedantic-errors -std=c99 -o CMakeFiles/lab7.dir/src/TopSort.c.o   -c /home/mgbdd/template/lab7/src/TopSort.c",
+  "file": "/home/mgbdd/template/lab7/src/TopSort.c"
+}
+]

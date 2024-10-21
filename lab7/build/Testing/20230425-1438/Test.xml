@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20230425-1438-Experimental"
+	Name="mgbddlt"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="mgbddlt"
+	OSRelease="5.10.16.3-microsoft-standard-WSL2"
+	OSVersion="#1 SMP Fri Apr 2 22:23:49 UTC 2021"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="126"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="6096"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="1190.4"
+	>
+	<Testing>
+		<StartDateTime>Apr 25 21:54 +07</StartDateTime>
+		<StartTestTime>1682434457</StartTestTime>
+		<TestList>
+			<Test>./testlab7</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>testlab7</Name>
+			<Path>.</Path>
+			<FullName>./testlab7</FullName>
+			<FullCommandLine>/home/mgbdd/template/lab7/test/testlab7 "./lab7"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>1.53443</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/mgbdd/template/lab7/test/testlab7 "./lab7"</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVlM9ugzAMxu88hY/bYYyE/qO3SWNStWmrBHsASFyIRJMqCWx9+wW4VAqdlFv06WfH+Wwnev86wNuhhM/iGz6qGko0FjU8sEegSZI90YQmUF8hH5oepYAjWq2GKBo5IZspZguluqhONYJVHRRK2ziOozIvSiDPKd3D8aUo8tdZoZPCrqxD+KkMcLTILPI9FD1jaEx0S6cTXVccZH+uXWHqBJ2QaJbxlXfd2lM2nrL1lJ2nZJ5CkrDaCAl6OQkziqRh+CoMX4fhs8eGVfIEqLXSICTYmyExbkjuxPrdIH47SLZg/oDaCnbPf7rUL+TNXX5hdqkvLU3of1nDjKdhxtNNGL6dFrVF0G6dx8qtO9vp3NtLb6ccGs9qQA5GSIYgLOAvQ+RmhlsX2qqOj9EkoSv3WbgEcfQHDNFNuA==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 25 21:54 +07</EndDateTime>
+		<EndTestTime>1682434459</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
